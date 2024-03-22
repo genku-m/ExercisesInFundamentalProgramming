@@ -1,0 +1,465 @@
+This is e-pTeX, Version 3.141592653-p3.9.0-210218-2.6 (utf8.euc) (TeX Live 2021) (preloaded format=platex 2021.5.17)  7 MAY 2022 00:14
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**/Users/genku/ExercisesInFundamentalProgramming/latex/jazzGuitarbeginer/beginer.tex
+(/Users/genku/ExercisesInFundamentalProgramming/latex/jazzGuitarbeginer/beginer.tex
+pLaTeX2e <2020-10-01>+2 (based on LaTeX2e <2020-10-01> patch level 4)
+L3 programming layer <2021-02-18> (/usr/local/texlive/2021/texmf-dist/tex/platex/base/jarticle.cls
+Document Class: jarticle 2020/09/30 v1.8f Standard pLaTeX class
+\c@@paper=\count178
+(/usr/local/texlive/2021/texmf-dist/tex/platex/base/jsize12.clo
+File: jsize12.clo 2020/09/30 v1.8f Standard pLaTeX file (size option)
+)
+\c@part=\count179
+\c@section=\count180
+\c@subsection=\count181
+\c@subsubsection=\count182
+\c@paragraph=\count183
+\c@subparagraph=\count184
+\c@figure=\count185
+\c@table=\count186
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\symmincho=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `mincho' in version `bold'
+(Font)                  JY1/mc/m/n --> JY1/gt/m/n on input line 615.
+\toclineskip=\dimen154
+\@lnumwidth=\dimen155
+\bibindent=\dimen156
+\heisei=\count187
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: dvipdfmx.def on input line 105.
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-def/dvipdfmx.def
+File: dvipdfmx.def 2021/03/18 v5.0j Graphics/color driver for dvipdfmx
+))
+\Gin@req@height=\dimen157
+\Gin@req@width=\dimen158
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/musixtex/musixtex.sty (/usr/local/texlive/2021/texmf-dist/tex/generic/musixtex/musixtex.tex
+MusiXTeX(c) 1.31 <2021-01-07>
+\n@i=\count188
+\n@ii=\count189
+\n@iii=\count190
+\n@iv=\count191
+\n@v=\count192
+\n@vi=\count193
+\n@vii=\count194
+\n@viii=\count195
+\count@=\count196
+\toks@box=\box64
+\w@rkbox=\box65
+\n@otebox=\box66
+\y@=\dimen159
+\y@i=\dimen160
+\y@ii=\dimen161
+\y@iii=\dimen162
+\y@iv=\dimen163
+\y@v=\dimen164
+\group@no=\count197
+\interinstrument=\dimen165
+\N@s=\count198
+\s@Y=\dimen166
+\lin@pos=\dimen167
+\meet@minus@n@iv=\count199
+\interbeam=\dimen168
+\b@amthick=\dimen169
+\Interligne=\dimen170
+\Internote=\dimen171
+\ch@box=\box67
+\musicsize=\count266
+\qd@skip=\dimen172
+\qn@width=\dimen173
+\wn@width=\dimen174
+\txt@ff=\skip49
+\s@indent=\skip50
+\big@spc=\skip51
+\lthick=\dimen175
+\afterruleskip=\skip52
+\staffbotmarg=\dimen176
+\stafftopmarg=\dimen177
+\line@width=\dimen178
+\interportee=\dimen179
+\noport@@=\count267
+\noinstrum@nt=\count268
+\altportee=\dimen180
+\systemheight=\dimen181
+\altplancher=\dimen182
+\instrum@in@group=\skip53
+\boxitsep=\skip54
+\barsinpi@c@=\count269
+\barno=\count270
+\startbarno=\count271
+\sign@skip=\dimen183
+\maxsign@skip=\dimen184
+\x@skip=\dimen185
+\n@skip=\dimen186
+\beforeruleskip=\skip55
+\widthtyp@=\count272
+\lastbarno=\count273
+\cut@v=\skip56
+\init@volta@pos=\skip57
+\volta@startcor=\skip58
+\volta@endcor=\skip59
+\writ@volta@box=\box68
+\barsinlin@=\count274
+\maxbarsinlin@=\count275
+\lastbarpos=\skip60
+\ut@ref=\count276
+\meterskip=\skip61
+\t@c=\toks17
+\clef@skip=\skip62
+\noteskip=\dimen187
+\transpose=\count277
+\normaltranspose=\count278
+\locx@skip=\dimen188
+\elemskip=\dimen189
+\@l@mskip=\dimen190
+\inh@alt=\count279
+\st@bot=\dimen191
+\st@top=\dimen192
+\stem@skip=\dimen193
+\s@lope=\dimen194
+\y@vi=\dimen195
+\lift@rest=\dimen196
+\accshift=\skip63
+\@icresc=\skip64
+\pdl@pos=\dimen197
+\bigwedgebox=\box69
+\@itrillei=\skip65
+\@itrilleii=\skip66
+\@itrilleiii=\skip67
+\@itrilleiv=\skip68
+\@itrillev=\skip69
+\@itrillevi=\skip70
+\tr@number=\count280
+\tr@nspose=\count281
+\o@swz=\toks18
+\o@number=\count282
+\y@vii=\dimen198
+\y@viii=\dimen199
+\y@ix=\dimen256
+\tuptxtb@x=\box70
+\notes@open=\count283
+\k@ii=\skip71
+\i@ni=\dimen257
+\b@xi=\dimen258
+\b@zi=\dimen259
+\c@xi=\dimen260
+\c@zi=\skip72
+\d@xi=\dimen261
+\d@zi=\skip73
+\e@xi=\dimen262
+\e@zi=\skip74
+\b@pi=\count284
+\b@ni=\count285
+\n@pi=\count286
+\a@si=\count287
+\o@si=\count288
+\a@ci=\toks19
+\o@ci=\toks20
+\m@ti=\toks21
+\k@iii=\skip75
+\i@nii=\dimen263
+\b@xii=\dimen264
+\b@zii=\dimen265
+\c@xii=\dimen266
+\c@zii=\skip76
+\d@xii=\dimen267
+\d@zii=\skip77
+\e@xii=\dimen268
+\e@zii=\skip78
+\b@pii=\count289
+\b@nii=\count290
+\n@pii=\count291
+\a@sii=\count292
+\o@sii=\count293
+\a@cii=\toks22
+\o@cii=\toks23
+\m@tii=\toks24
+\k@iiii=\skip79
+\i@niii=\dimen269
+\b@xiii=\dimen270
+\b@ziii=\dimen271
+\c@xiii=\dimen272
+\c@ziii=\skip80
+\d@xiii=\dimen273
+\d@ziii=\skip81
+\e@xiii=\dimen274
+\e@ziii=\skip82
+\b@piii=\count294
+\b@niii=\count295
+\n@piii=\count296
+\a@siii=\count297
+\o@siii=\count298
+\a@ciii=\toks25
+\o@ciii=\toks26
+\m@tiii=\toks27
+\k@iiv=\skip83
+\i@niv=\dimen275
+\b@xiv=\dimen276
+\b@ziv=\dimen277
+\c@xiv=\dimen278
+\c@ziv=\skip84
+\d@xiv=\dimen279
+\d@ziv=\skip85
+\e@xiv=\dimen280
+\e@ziv=\skip86
+\b@piv=\count299
+\b@niv=\count300
+\n@piv=\count301
+\a@siv=\count302
+\o@siv=\count303
+\a@civ=\toks28
+\o@civ=\toks29
+\m@tiv=\toks30
+\k@iv=\skip87
+\i@nv=\dimen281
+\b@xv=\dimen282
+\b@zv=\dimen283
+\c@xv=\dimen284
+\c@zv=\skip88
+\d@xv=\dimen285
+\d@zv=\skip89
+\e@xv=\dimen286
+\e@zv=\skip90
+\b@pv=\count304
+\b@nv=\count305
+\n@pv=\count306
+\a@sv=\count307
+\o@sv=\count308
+\a@cv=\toks31
+\o@cv=\toks32
+\m@tv=\toks33
+\k@ivi=\skip91
+\i@nvi=\dimen287
+\b@xvi=\dimen288
+\b@zvi=\dimen289
+\c@xvi=\dimen290
+\c@zvi=\skip92
+\d@xvi=\dimen291
+\d@zvi=\skip93
+\e@xvi=\dimen292
+\e@zvi=\skip94
+\b@pvi=\count309
+\b@nvi=\count310
+\n@pvi=\count311
+\a@svi=\count312
+\o@svi=\count313
+\a@cvi=\toks34
+\o@cvi=\toks35
+\m@tvi=\toks36
+maxinstruments=6
+\f@xi=\dimen293
+\f@zi=\skip95
+\f@xii=\dimen294
+\f@zii=\skip96
+\f@xiii=\dimen295
+\f@ziii=\skip97
+\f@xiv=\dimen296
+\f@ziv=\skip98
+\f@xv=\dimen297
+\f@zv=\skip99
+\f@xvi=\dimen298
+\f@zvi=\skip100
+max128beams=6
+\g@bi=\skip101
+\g@hi=\skip102
+\g@bii=\skip103
+\g@hii=\skip104
+\g@biii=\skip105
+\g@hiii=\skip106
+maxgroups=3
+\s@xi=\dimen299
+\s@si=\toks37
+\s@Yi=\dimen300
+\s@ai=\skip107
+\s@yi=\count314
+\s@Ni=\count315
+\s@zi=\count316
+\s@di=\toks38
+\s@xii=\dimen301
+\s@sii=\toks39
+\s@Yii=\dimen302
+\s@aii=\skip108
+\s@yii=\count317
+\s@Nii=\count318
+\s@zii=\count319
+\s@dii=\toks40
+\s@xiii=\dimen303
+\s@siii=\toks41
+\s@Yiii=\dimen304
+\s@aiii=\skip109
+\s@yiii=\count320
+\s@Niii=\count321
+\s@ziii=\count322
+\s@diii=\toks42
+\s@xiv=\dimen305
+\s@siv=\toks43
+\s@Yiv=\dimen306
+\s@aiv=\skip110
+\s@yiv=\count323
+\s@Niv=\count324
+\s@ziv=\count325
+\s@div=\toks44
+\s@xv=\dimen307
+\s@sv=\toks45
+\s@Yv=\dimen308
+\s@av=\skip111
+\s@yv=\count326
+\s@Nv=\count327
+\s@zv=\count328
+\s@dv=\toks46
+\s@xvi=\dimen309
+\s@svi=\toks47
+\s@Yvi=\dimen310
+\s@avi=\skip112
+\s@yvi=\count329
+\s@Nvi=\count330
+\s@zvi=\count331
+\s@dvi=\toks48
+maxslurs=6
+\tr@xi=\skip113
+\tr@swi=\toks49
+\tr@yi=\skip114
+\tr@xii=\skip115
+\tr@swii=\toks50
+\tr@yii=\skip116
+\tr@xiii=\skip117
+\tr@swiii=\toks51
+\tr@yiii=\skip118
+\tr@xiv=\skip119
+\tr@swiv=\toks52
+\tr@yiv=\skip120
+\tr@xv=\skip121
+\tr@swv=\toks53
+\tr@yv=\skip122
+\tr@xvi=\skip123
+\tr@swvi=\toks54
+\tr@yvi=\skip124
+maxtrills=6
+\o@xi=\skip125
+\o@yi=\skip126
+\o@swi=\toks55
+\o@xii=\skip127
+\o@yii=\skip128
+\o@swii=\toks56
+\o@xiii=\skip129
+\o@yiii=\skip130
+\o@swiii=\toks57
+\o@xiv=\skip131
+\o@yiv=\skip132
+\o@swiv=\toks58
+\o@xv=\skip133
+\o@yv=\skip134
+\o@swv=\toks59
+\o@xvi=\skip135
+\o@yvi=\skip136
+\o@swvi=\toks60
+maxoctlines=6
+\outmux=\write3
+\mulooseness=\count332
+\linegoal=\count333
+\l@eftrightbox=\box71
+\stringraise=\count334
+\inmux=\read2
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/musixtex/musixltx.tex
+MusiXLaTeX T.125 <8 April 2017>
+)) (/usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-dvips.def
+File: l3backend-dvips.def 2021-03-18 L3 backend support: dvips
+\l__pdf_internal_box=\box72
+\g__pdf_backend_object_int=\count335
+\l__pdf_backend_content_box=\box73
+\l__pdf_backend_model_box=\box74
+\g__pdf_backend_annotation_int=\count336
+\g__pdf_backend_link_int=\count337
+\g__pdf_backend_link_sf_int=\count338
+) (out/beginer.aux)
+\openout1 = `beginer.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+\openout3 = `beginer.mx1'.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 6.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 6.
+
+LaTeX Warning: No \author given.
+
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <17.28> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 8.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <17.28> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 8.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 10.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 10.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 10.
+File: diatonic.png Graphic file (type bmp)
+<diatonic.png>
+
+Overfull \hbox (17.12907pt too wide) in paragraph at lines 21--22
+[][] 
+
+\hbox(153.57375+0.0)x418.0 []
+
+[1
+
+] [2]
+File: 6root.png Graphic file (type bmp)
+<6root.png>
+
+Overfull \hbox (20.33792pt too wide) in paragraph at lines 50--51
+[][] 
+
+\hbox(100.64757+0.0)x418.0 []
+
+File: 5root.png Graphic file (type bmp)
+<5root.png>
+
+Overfull \hbox (20.33792pt too wide) in paragraph at lines 57--58
+[][] 
+
+\hbox(101.1407+0.0)x418.0 []
+
+[3] (out/beginer.aux) ) 
+Here is how much of TeX's memory you used:
+ 2907 strings out of 479466
+ 29155 string characters out of 5870548
+ 333357 words of memory out of 5000000
+ 20551 multiletter control sequences out of 15000+600000
+ 482202 words of font info for 207 fonts, out of 8000000 for 9000
+ 929 hyphenation exceptions out of 8191
+ 68i,6n,74p,419b,229s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on out/beginer.dvi (3 pages, 11756 bytes).

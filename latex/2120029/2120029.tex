@@ -1,0 +1,61 @@
+\documentclass[12pt,a4j]{jarticle}
+\usepackage[dvipdfm]{graphicx}
+\usepackage{musixtex}
+\usepackage{url}
+\begin{document}
+\title{prosessingを用いたプログラミング}
+\maketitle
+\section{リバーシを作る}
+テーマがアニメーション+インタラクション,アルゴリズムなどということでリバーシというゲームを作ってみる.
+まずルールを確認してみる.
+wikipedia~\cite{wiki}を参照にルールを挙げる. 
+\begin{quote}
+  \begin{itemize}
+   \item 8×8の正方形の盤と表裏を黒と白の石を使用する.
+   \item 2人のプレイヤーが交互に石を打つ.
+   \item 相手の石を自分の石で挟んで自分の石にできる.
+   \item 最終的に盤上に石が多かったほうが勝利
+  \end{itemize}
+ \end{quote}
+最低限このルールを満たしていればゲームとして完成するだろう.
+
+実装が必要なものは
+\begin{quote}
+  \begin{itemize}
+   \item 盤
+   \item 石
+   \item 石を置く機能
+   \item 石をひっくり返す機能
+  \end{itemize}
+\end{quote}
+
+この規模でひな形となりそうなサンプルを探してみる.
+見つけたquitaの@sawamur@githubさんの投稿　オセロができるまで 〜Processingをつかってはじめてのプログラミング〜　\cite{quita}が上記条件を満たしていそうなので参考に実装する.
+
+とりあえず一通りそのとおりに実装して動かしてみて気になったところや実現したいことを自身で実装していく.
+
+\section{ゲームの勝ち負けをプレイヤーに知らせる}
+
+\cite{quita}でも言及されているが,ゲームの終了がプログラミング内でわからない状態なので,まずそちらを実装していく.
+実装するものは
+\begin{quote}
+  \begin{itemize}
+  \item 盤上のすべてのマスが埋まったときゲームを終了する
+  \item 盤上の石を数える
+  \item 勝ち負けをアナウンスする
+  \end{itemize}
+\end{quote}
+の3つである. 盤上の石を数えるのは奥から相手の石,手前から自分の石を順番に並べていくのが視覚的にもわかりやすいのでそのように実装しようと思う.
+getEmptyCellsというメソッドがあるのでそちらの値が0だったときにゲームを終了するプログラムを書く.
+愚直にマス目の石の色を数えてそれを並べ直すのが良いだろう.
+それらを実際に実装した.
+
+\section{動作確認で起こったこと}
+cellのメソッドcell.hasStone()がNullぽするっぽいのだが,時間がなく修正できなかった.
+上記で追加したゲームの勝ち負けをプレイヤーに知らせる機能もどこか間違ってそうなのだが,Nullぽが解決しないのでなおせていない.
+
+\begin{thebibliography}{2}
+  \bibitem{wiki} wikipedia オセロ (ボードゲーム) \url{https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%BB%E3%83%AD_(%E3%83%9C%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0)}
+  \bibitem{quita} オセロができるまで 〜Processingをつかってはじめてのプログラミング〜 @sawamur@github \url{https://qiita.com/sawamur@github/items/7cd17a68d7db8a4a4ca0}
+\end{thebibliography}
+\end{document}
