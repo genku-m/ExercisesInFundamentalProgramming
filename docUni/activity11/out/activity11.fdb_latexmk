@@ -1,0 +1,29 @@
+# Fdb version 3
+["dvipdf"] 1625170575 "out/activity11.dvi" "out/activity11.pdf" "out/activity11" 1625171138
+  "out/activity11.dvi" 1625170575 2132 f7daefa498dfd9317d036cfbc05eb0be "latex"
+  (generated)
+  "out/activity11.pdf"
+["latex"] 1625170574 "/Users/genku/docUni/activity11/activity11.tex" "out/activity11.dvi" "activity11" 1625171138
+  "/Users/genku/docUni/activity11/activity11.tex" 1625171137 1104 88984ca2277388c6f745ff74710e4492 ""
+  "/usr/local/texlive/2021/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
+  "/usr/local/texlive/2021/texmf-dist/fonts/tfm/ptex-fonts/standard/goth10.tfm" 1463434352 1196 5981e79c37b2cfd27b3612a6783cd4b6 ""
+  "/usr/local/texlive/2021/texmf-dist/fonts/tfm/ptex-fonts/standard/min10.tfm" 1463434352 1196 1be730212205a270378fba11a44765dc ""
+  "/usr/local/texlive/2021/texmf-dist/fonts/tfm/ptex-fonts/standard/tgoth10.tfm" 1463434352 856 7404843a5f798859944d7973a47821d5 ""
+  "/usr/local/texlive/2021/texmf-dist/fonts/tfm/ptex-fonts/standard/tmin10.tfm" 1463434352 856 39c171483fe1bb7d0e1368980c0c205b ""
+  "/usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
+  "/usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1136768653 1524 4414a8315f39513458b80dfc63bff03a ""
+  "/usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmr12.tfm" 1136768653 1288 655e228510b4c2a1abe905c368440826 ""
+  "/usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmr17.tfm" 1136768653 1292 296a67155bdbfc32aa9c636f21e91433 ""
+  "/usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm" 1136768653 1124 6c73e740cf17375f03eec0ee63599741 ""
+  "/usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-dvips.def" 1616101731 33684 1ea177219ce380b3f1b75a786a0b24e7 ""
+  "/usr/local/texlive/2021/texmf-dist/tex/platex/base/jarticle.cls" 1601501154 25873 fd34d08164a3ea7afd6bc7fe99629a3d ""
+  "/usr/local/texlive/2021/texmf-dist/tex/platex/base/jsize12.clo" 1601501154 8603 b3295bc4cc1325a821c424059c0c11d6 ""
+  "/usr/local/texlive/2021/texmf-dist/web2c/texmf.cnf" 1616443989 39972 3d6bb4d9d719e93193fa020b58adf5d4 ""
+  "/usr/local/texlive/2021/texmf-var/web2c/eptex/platex.fmt" 1621177488 2717272 61a6de671ca81557468e7109d2536983 ""
+  "/usr/local/texlive/2021/texmf.cnf" 1616695596 577 4c1911a7228e554c6032256d3cf5567d ""
+  "activity11.tex" 1625171137 1104 88984ca2277388c6f745ff74710e4492 ""
+  "out/activity11.aux" 1625170575 740 71f9aa2b7dc200fad5b8301b634c31de "latex"
+  (generated)
+  "out/activity11.dvi"
+  "out/activity11.aux"
+  "out/activity11.log"
